@@ -1,0 +1,16 @@
+{
+  "src/sut/math_ops.py":
+  [
+    "tests/test_math_ops.py",
+    "tests/test_integration.py"
+  ],
+  "src/sut/str_ops.py":
+  [
+    "tests/test_str_ops.py",
+    "tests/test_integration.py"
+  ],
+  "src/sut/io_ops.py":
+  [
+    "tests/test_io_ops.py"
+  ]
+}
